@@ -1,0 +1,17 @@
+body , html {
+    color: white;
+    background-color: black;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    font-family: initial;
+    font-size: 30px;
+}
+
+#title {
+    color: white;
+}
+
+#image {
+    /* dupas */
+}
