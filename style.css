@@ -15,3 +15,10 @@ body , html {
 #image {
     /* dupas */
 }
+
+#clock {
+    font-size: 17px;
+}
+a {
+    color:purple;
+}
